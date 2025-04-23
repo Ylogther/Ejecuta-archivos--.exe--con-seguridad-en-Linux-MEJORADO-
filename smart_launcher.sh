@@ -1,4 +1,12 @@
 #!/bin/bash
+   #
+   # Smart Launcher - Ejecución segura de .exe en Linux
+   # Copyright (C) 2025 YLOGTHER
+   #
+   # Este programa es software libre: puedes redistribuirlo y/o modificar
+   # bajo los términos de la GNU General Public License publicada por
+   # la Free Software Foundation, ya sea la versión 3 o cualquier versión posterior.
+
 # ==============================================
 # SMART LAUNCHER - Ejecución Segura de .exe en Linux
 # Versión: 4.2
