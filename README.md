@@ -152,7 +152,7 @@ $ ./smart_launcher juego.exe
 Este proyecto está bajo la licencia [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html).
 
 ---
-**Nota importante**: Ningún sistema de análisis es 100% efectivo. Siempre ejerza precaución con archivos desconocidos.
+**Nota importante**: Ningún sistema de análisis es 100% efectivo. Siempre ejerza precaución con archivos desconocidos. NO ME HAGO RESPONSABLE DE ALGUNA INFECCION DE VIRUS A SISTEMAS LINUX POR MALUSO DE MI HERRAMIENTA
 
    
 **Licencia**: GPLv3  
