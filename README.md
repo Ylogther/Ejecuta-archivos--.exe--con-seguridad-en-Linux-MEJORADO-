@@ -1,5 +1,4 @@
 
-```markdown
 # 🚀 Smart Launcher - Ejecución Segura de .exe en Linux
 
 **Repositorio Oficial**: [https://github.com/Ylogther/Ejecuta-archivos--.exe--con-seguridad-en-Linux-MEJORADO-](https://github.com/Ylogther/Ejecuta-archivos--.exe--con-seguridad-en-Linux-MEJORADO-)  
@@ -8,7 +7,7 @@
 ![Licencia](https://img.shields.io/github/license/Ylogther/Ejecuta-archivos--.exe--con-seguridad-en-Linux-MEJORADO-?color=blue)
 
 Herramienta profesional para ejecutar aplicaciones Windows (.exe) en Linux con análisis de seguridad avanzado y entorno aislado.
-```
+
 ## 📦 Instalación
 
 ### Requisitos previos:
